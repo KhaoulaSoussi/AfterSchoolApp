@@ -18,3 +18,5 @@ The time that was allocated to the implementation of this project (less than two
 - Bootstrap
 
 Please refer to the final report pdf file for more details about the project.
+
+Done on December 26th 2021
